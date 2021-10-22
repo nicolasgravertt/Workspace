@@ -1,0 +1,20 @@
+#aceptar{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#cancelar{
+    background-color: darkgrey;
+    color: white;
+}
+
+.div-titulo-cabezera{
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.titulo{
+    margin: 0px;
+}
