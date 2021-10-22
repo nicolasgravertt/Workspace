@@ -245,6 +245,10 @@ db.users.remove({
 });
 
 /* 
+    Para viajar entre documentos embebidos con notacion
+    'usuario.direccion'
+    Para buscar dentro de una lista en find.
+    $elemMatch: 
     db.users.drop(); Para eliminar la coleccion de datos.
     db.dropDatabase(); Eliminar la bd.
     mongodump --db prueba // crea respaldo o backup de la base de datos.
